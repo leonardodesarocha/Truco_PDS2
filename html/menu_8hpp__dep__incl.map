@@ -1,0 +1,4 @@
+<map id="menu.hpp" name="menu.hpp">
+<area shape="rect" id="node1" title="Classe com a lógica do menu." alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node2" href="$jogo_8hpp.html" title="Classe com a lógica do jogo." alt="" coords="9,79,80,104"/>
+</map>

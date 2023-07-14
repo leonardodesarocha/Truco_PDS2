@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_jogador.html" title="Armazena e processa as informações do jogador." alt="" coords="5,31,72,56"/>
+<area shape="rect" id="node2" href="$class_bot.html" title="Armazena e processa as informações do bot." alt="" coords="134,5,177,31"/>
+<area shape="rect" id="node3" href="$class_humano.html" title="Classe que armazena e processa as informações do usuário." alt="" coords="120,55,191,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Bot" name="Bot">
+<area shape="rect" id="node1" title="Armazena e processa as informações do bot." alt="" coords="14,343,127,456"/>
+<area shape="rect" id="node2" href="$class_jogador.html" title="Armazena e processa as informações do jogador." alt="" coords="5,5,136,295"/>
+</map>

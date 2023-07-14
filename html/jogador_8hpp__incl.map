@@ -1,0 +1,11 @@
+<map id="jogador.hpp" name="jogador.hpp">
+<area shape="rect" id="node1" title="Classe com a lógica do jogador." alt="" coords="209,5,298,31"/>
+<area shape="rect" id="node2" href="$carta_8hpp.html" title="Classe com a lógica da carta." alt="" coords="178,152,254,177"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,225,72,251"/>
+<area shape="rect" id="node4" title=" " alt="" coords="100,225,172,251"/>
+<area shape="rect" id="node5" title=" " alt="" coords="197,225,251,251"/>
+<area shape="rect" id="node6" title=" " alt="" coords="378,225,425,251"/>
+<area shape="rect" id="node7" title=" " alt="" coords="467,225,523,251"/>
+<area shape="rect" id="node8" title=" " alt="" coords="315,225,354,251"/>
+<area shape="rect" id="node9" href="$baralho_8hpp.html" title="Classe com a lógica do baralho." alt="" coords="250,79,339,104"/>
+</map>

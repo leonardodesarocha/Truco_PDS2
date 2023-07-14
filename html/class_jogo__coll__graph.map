@@ -1,0 +1,13 @@
+<map id="Jogo" name="Jogo">
+<area shape="rect" id="node1" title="Armazena e processa o jogo em si." alt="" coords="263,1233,462,1537"/>
+<area shape="rect" id="node2" href="$class_menu.html" title="Cria dentro do jogo um sistema de conta dos jogadores." alt="" coords="285,583,440,828"/>
+<area shape="rect" id="node3" title=" " alt="" coords="317,196,401,236"/>
+<area shape="rect" id="node8" href="$class_jogador.html" title="Armazena e processa as informações do jogador." alt="" coords="163,299,293,559"/>
+<area shape="rect" id="node4" title=" " alt="" coords="293,42,424,97"/>
+<area shape="rect" id="node5" href="$class_baralho.html" title="Modifica e armazena as cartas dos jogadores." alt="" coords="459,896,677,1097"/>
+<area shape="rect" id="node6" href="$class_rodada.html" title="Armazena e processa os dados de uma partida." alt="" coords="701,852,933,1141"/>
+<area shape="rect" id="node7" href="$class_humano.html" title="Classe que armazena e processa as informações do usuário." alt="" coords="5,933,176,1061"/>
+<area shape="rect" id="node11" href="$class_bot.html" title="Armazena e processa as informações do bot." alt="" coords="201,940,314,1053"/>
+<area shape="rect" id="node9" title=" " alt="" coords="136,196,277,236"/>
+<area shape="rect" id="node10" href="$class_carta.html" title="Armazena informações básicas de uma carta para o jogo." alt="" coords="147,5,266,133"/>
+</map>

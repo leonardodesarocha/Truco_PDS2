@@ -1,0 +1,6 @@
+<map id="bot.hpp" name="bot.hpp">
+<area shape="rect" id="node1" title="Classe com a lógica do bot." alt="" coords="15,5,80,31"/>
+<area shape="rect" id="node2" href="$jogo_8hpp.html" title="Classe com a lógica do jogo." alt="" coords="28,225,99,251"/>
+<area shape="rect" id="node3" href="$menu_8hpp.html" title="Classe com a lógica do menu." alt="" coords="24,152,103,177"/>
+<area shape="rect" id="node4" href="$rodada_8hpp.html" title="Classe com a lógica da rodada." alt="" coords="85,79,172,104"/>
+</map>

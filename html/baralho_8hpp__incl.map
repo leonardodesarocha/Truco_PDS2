@@ -1,0 +1,10 @@
+<map id="baralho.hpp" name="baralho.hpp">
+<area shape="rect" id="node1" title="Classe com a lógica do baralho." alt="" coords="205,5,294,31"/>
+<area shape="rect" id="node2" href="$carta_8hpp.html" title="Classe com a lógica da carta." alt="" coords="211,79,287,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,152,72,177"/>
+<area shape="rect" id="node4" title=" " alt="" coords="96,152,168,177"/>
+<area shape="rect" id="node5" title=" " alt="" coords="193,152,247,177"/>
+<area shape="rect" id="node6" title=" " alt="" coords="271,152,318,177"/>
+<area shape="rect" id="node7" title=" " alt="" coords="343,152,399,177"/>
+<area shape="rect" id="node8" title=" " alt="" coords="423,152,462,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Jogador" name="Jogador">
+<area shape="rect" id="node1" title="Armazena e processa as informações do jogador." alt="" coords="77,299,208,559"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,196,117,236"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,42,136,97"/>
+<area shape="rect" id="node4" title=" " alt="" coords="147,196,288,236"/>
+<area shape="rect" id="node5" href="$class_carta.html" title="Armazena informações básicas de uma carta para o jogo." alt="" coords="161,5,279,133"/>
+</map>
